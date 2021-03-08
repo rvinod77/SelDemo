@@ -23,7 +23,7 @@ public class Homepage extends base {
 		
 		log.info("Successful Login into Website");
 		log.info("GIT code");
-		
+		log.info("Branch code");
 		
 		
 	//	System.out.println(driver.getTitle());
