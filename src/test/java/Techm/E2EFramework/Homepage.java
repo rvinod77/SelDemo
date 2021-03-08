@@ -22,6 +22,8 @@ public class Homepage extends base {
 		driver.get(ENV);
 		
 		log.info("Successful Login into Website");
+		log.info("GIT code");
+		
 		
 		
 	//	System.out.println(driver.getTitle());
